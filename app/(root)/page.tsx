@@ -1,8 +1,5 @@
-
-import { Button } from "@/components/ui/button";
-import { APP_NAME } from "@/lib/constants";
 const Homepage = () => {
-  return <Button>Button</Button>;
-}
- 
+  return <>Prostore</>;
+};
+
 export default Homepage;
